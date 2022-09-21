@@ -31,4 +31,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-4: [_HTML Semântico_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-03-introdu%C3%A7%C3%A3o-a-HTML-e-CSS/dia-04-html-semantico)
 - [ ] 3-5: _Projeto - Lessons Learned_
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-04-introducao-a-javascript)
