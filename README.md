@@ -32,3 +32,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 3-5: _Projeto - Lessons Learned_
 
 ##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-04-introducao-a-javascript)
+- [ ] 4-1: _JavaScript-primeiros-passos_
