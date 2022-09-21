@@ -1,6 +1,6 @@
 const age = 22;
 
-let name = "Hulk";
+let nome = "Hulk";
 
 console.log(age);
-console.log(name);
+console.log(nome);
