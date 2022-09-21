@@ -1,0 +1,1 @@
+Página com links que levam à frases especiais.
