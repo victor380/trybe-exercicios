@@ -1,6 +1,6 @@
 # Desenvolvimento Web Fullstack na Trybe
 
-Esse repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim](https://www.linkedin.com/in/liuken-monteiro-9980181a6/)_ enquanto estudante da [Trybe](https://www.betrybe.com/) 
+Esse repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim](https://www.linkedin.com/in/liuken-monteiro-9980181a6/)_ enquanto estudante da [Trybe](https://www.betrybe.com/) :rocket:
 
 > _"A **Trybe** é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
