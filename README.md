@@ -33,4 +33,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-04-introducao-a-javascript)
 - [x] 4-1: [_JavaScript-primeiros-passos_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-04-introducao-a-javascript/JavaScript-primeiros-passos)
-- [ ] 4-2: [_JavaScript-Array e loop e for_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-04-introducao-a-javascript/JavaScript-array-e-loop-e-for)
+- [ ] 4-2: [_JavaScript-Array e loop e for_](https://github.com/LiukenMonteiro/trybe-exercicios/tree/main/modulo-01-fundamentos/bloco-04-introducao-a-javascript/02-JavaScript-array-e-loop-e-for)
