@@ -1,0 +1,1 @@
+Lista de amigos que fiz durantet a trybe
