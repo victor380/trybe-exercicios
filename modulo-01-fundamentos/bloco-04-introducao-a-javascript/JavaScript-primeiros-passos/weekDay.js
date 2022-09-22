@@ -10,4 +10,4 @@ else if(weekDay === "sabado" || weekDay === "domingo")
     message = "FINALMENTE, DESCANSO MERECIDO UwU";
 }
 
-console.log(message);
+console.log(message);                             
